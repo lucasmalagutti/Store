@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lm5srrLBuOE=",
+  "dgSpecHash": "u1SZYGPHrS0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Store\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Área de Trabalho\\Store\\Store\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
